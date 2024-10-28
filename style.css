@@ -8,6 +8,12 @@ h1
     color:#ff000080;
 }
 
+h2
+{
+    color: hsl(120, 60%, 70%);
+}
+
+
 ol
 {
     display:inline-block

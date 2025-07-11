@@ -31,4 +31,6 @@ for the stuff that are going to be seen by users!!
 
 Last but not least, I will get used more to doing git commit
 and writting good commit message for each meaningful change to my code.
+
+Take a quick at my Odin Recipes web pages 😄😎: https://anhfmastdzzz.github.io/odin-recipes/
  
